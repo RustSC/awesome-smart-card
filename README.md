@@ -16,6 +16,10 @@ A curated list of awesome resources that help learn and build smart cards.
 - [Tutorial: JavaCards](https://www.youtube.com/watch?v=YK8tcP9lsKA), video from CRoCS, programming cryptographic smartcards
 - [How to write a Java Card applet: A developer's guide](https://www.infoworld.com/article/2076450/how-to-write-a-java-card-applet--a-developer-s-guide.html)
 - [Javacard playlist on youtube](https://www.youtube.com/playlist?list=PLDgYrWpBOLh3u9RC-sJKDCBbgg8DFdF2O)
+- [JavaCard: The execution environment you didn’t know you were using](https://www.benthamsgaze.org/2018/07/13/javacard-the-execution-environment-you-didnt-know-you-were-using/)
+- [MULTOS multi application smart chip card operating system](http://cardwerk.com/multos-multi-application-smart-chip-card-operating-system/)
+- [How to build a simple smart card emulator & reader for Android](https://medium.com/the-almanac/how-to-build-a-simple-smart-card-emulator-reader-for-android-7975fae4040f)
+
 
 ## Middlewares
 
@@ -35,6 +39,7 @@ A curated list of awesome resources that help learn and build smart cards.
 - [JCEd25519](https://github.com/dufkan/JCEd25519), JavaCard implementation of Ed25519 signing
 - [JCMathLib](https://github.com/OpenCryptoProject/JCMathLib), implements mathematical operations with big numbers and elliptic curve points missing from standard Java Card API
 - [Myst](https://github.com/OpenCryptoProject/Myst), secure multiparty key generation, signature and decryption javacard applet
+- [Virtual Smart Card](https://github.com/frankmorgner/vsmartcard), emulation of smart card readers or smart cards
 
 ## Applications
 
@@ -44,12 +49,16 @@ A curated list of awesome resources that help learn and build smart cards.
 - [ledger-javacard](https://github.com/LedgerHQ/ledger-javacard), Java Card implementation of Ledger Bitcoin hardware wallet
 - [status-keycard](https://github.com/status-im/status-keycard), an implementation of a BIP-32 HD wallet running on Javacard
 - [ledger-u2f-javacard](https://github.com/LedgerHQ/ledger-u2f-javacard), Java Card FIDO U2F authenticator for Ledger
+- [Pretty safe bitcoin wallet with keys on a smartcard](http://smartbtc.eu/)
+- [OpenPGP applet for the YubiKey NEO](https://github.com/Yubico/ykneo-openpgp/)
 
 
 ## Research
 
 - [Research themes in CRoCS](https://crocs.fi.muni.cz/public/research/main), Centre for Research on Cryptography and Security started in 2006 as a laboratory at Masaryk University
 - [Access to the smartcard from a web browser](https://github.com/status-im/status-keycard/issues/18)
+- [OpenCrypto: unchaining the Javacard ecosystem](https://www.blackhat.com/us-17/briefings.html#opencrypto-unchaining-the-javacard-ecosystem), [video](https://www.youtube.com/watch?v=vd0-Uhx2OoQ) :star: :star:
+- [SOSSE - Simple Operating System for Smartcard Education](https://www.mbsks.franken.de/sosse/), [github link](https://github.com/theqlabs/SOSSE)
 
 ## Chip Providers
 
@@ -64,3 +73,6 @@ A curated list of awesome resources that help learn and build smart cards.
 - FIDO, Fast IDentity Online
 - UAF, Universal Authentication Framework
 - U2F, Universal 2nd Factor
+- ISD, Issuer Security Domain
+- SCP, Secure Channel Protocols
+- KVN, Key Version Number
