@@ -10,6 +10,7 @@ A curated list of awesome resources that help learn and build smart cards.
 - [Java Card Forum](https://javacardforum.com/), a group of companies and [resources](https://javacardforum.com/resources/documents/) to promote and develop Java as the preferred programming language for smart cards
 - [javacard-curated-list](https://github.com/crocs-muni/javacard-curated-list), curated list of open-source Java Card applets and related applications for cryptographic smartcards :star: :star:
 - [Analysis of JavaCard open-source ecosystem](https://medium.com/enigma-shards/analysis-of-javacard-open-source-ecosystem-9be0bfd66398) :star: :star:
+- [NFC Wiki in Chinese](https://wiki.nfc.im/)
 
 ## Tutorials
 
@@ -19,6 +20,10 @@ A curated list of awesome resources that help learn and build smart cards.
 - [JavaCard: The execution environment you didn’t know you were using](https://www.benthamsgaze.org/2018/07/13/javacard-the-execution-environment-you-didnt-know-you-were-using/)
 - [MULTOS multi application smart chip card operating system](http://cardwerk.com/multos-multi-application-smart-chip-card-operating-system/)
 - [How to build a simple smart card emulator & reader for Android](https://medium.com/the-almanac/how-to-build-a-simple-smart-card-emulator-reader-for-android-7975fae4040f)
+-[NXP Security Controller Academy](https://www.nxp.com/design/training/security-controller-academy:TS-SECURE-AUTHENTICATION-TRAINING-ACADEMY), enable your knowledge for Security Controller solutions for mobile, wearables, automotive, IOT or Smartcard.
+    - [Secure Element Common: JCOP Introduction](https://www.nxp.com/design/training/secure-element-common-jcop-introduction:TIP-SECURE-ELEMENT-JCOP-INTRODUCTION)
+    - [Secure Element Common: APDU Introduction](https://www.nxp.com/design/training/secure-element-common-apdu-introduction:TIP-SECURE-ELEMENT-APDU-INTRODUCTION)
+    - [Secure Element Common | Applet Development | Part 3: Crypto](https://www.nxp.com/design/training/secure-element-common-applet-development-part-3-crypto:TIP-SEC-EL-COM-APPLET-DEV-PT3-CRYP)
 
 
 ## Middlewares
@@ -76,3 +81,4 @@ A curated list of awesome resources that help learn and build smart cards.
 - ISD, Issuer Security Domain
 - SCP, Secure Channel Protocols
 - KVN, Key Version Number
+- NDEF, NFC Data Exchange Format
